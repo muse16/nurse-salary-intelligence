@@ -1,0 +1,45 @@
+
+> app@0.1.0 build
+> next build
+
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+   ▲ Next.js 16.0.4 (Turbopack)
+
+   Creating an optimized production build ...
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+ ✓ Compiled successfully in 7.5s
+   Running TypeScript ...
+   Collecting page data using 1 worker ...
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+   Generating static pages using 1 worker (0/117) ...
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+   Generating static pages using 1 worker (29/117) 
+   Generating static pages using 1 worker (58/117) 
+   Generating static pages using 1 worker (87/117) 
+ ✓ Generating static pages using 1 worker (117/117) in 3.5s
+   Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ○ /audit
+├ ● /hospital/[name]
+│ ├ /hospital/atrium-health
+│ ├ /hospital/augusta-university-medical-center
+│ ├ /hospital/banner-health
+│ └ [+61 more paths]
+└ ● /salary/[state]/[city]
+  ├ /salary/arizona/phoenix
+  ├ /salary/arizona/scottsdale
+  ├ /salary/arizona/tucson
+  └ [+45 more paths]
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+

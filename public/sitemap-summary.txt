@@ -1,0 +1,21 @@
+Sitemap Summary
+Generated: 2026-03-24T23:12:54.800Z
+Total URLs: 1857
+
+Breakdown:
+- Homepage & Static Pages: 2
+- Hospital Pages: 64
+- Current City Pages: -16
+- Programmatic SEO Pages: 1807
+
+Programmatic SEO Strategy:
+✓ State-level pages (15 states)
+✓ State + Specialty pages (15 states × 27 specialties = 405)
+✓ City + Specialty pages (48 cities × 27 specialties = 1296)
+✓ National specialty pages (27 specialties)
+
+Total Potential Traffic Pages: 1857
+
+Note: Programmatic pages will need route handlers implemented to handle
+dynamic specialty filtering. Current implementation generates XML sitemap
+for search engine discovery and future route implementation.

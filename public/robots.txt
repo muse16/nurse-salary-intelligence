@@ -1,0 +1,9 @@
+# robots.txt for Nurse Salary Intelligence
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://nursesalaryintel.com/sitemap.xml
+
+# Crawl delay (optional, be respectful to search engines)
+Crawl-delay: 1

@@ -1,0 +1,65 @@
+state,city,hospital,position,salary,contract_length,red_flags,latitude,longitude
+California,Los Angeles,Cedars-Sinai Medical Center,Travel RN,125000,13,None,34.0736,-118.3753
+California,Los Angeles,UCLA Medical Center,Staff RN,110000,12,None,34.0673,-118.4456
+California,San Francisco,UCSF Medical Center,Travel RN,135000,13,Late payments,37.7625,-122.4584
+California,San Francisco,Kaiser Permanente SF,Staff RN,115000,12,None,37.7749,-122.4194
+California,San Diego,Scripps Memorial Hospital,Travel RN,120000,13,None,32.8633,-117.2256
+California,Sacramento,UC Davis Medical Center,Staff RN,105000,12,Unclear cancellation terms,38.5449,-121.7405
+New York,New York City,Mount Sinai Hospital,Travel RN,130000,13,None,40.7902,-73.9524
+New York,New York City,NYU Langone Health,Staff RN,120000,12,None,40.7424,-73.9753
+New York,Buffalo,Buffalo General Medical Center,Travel RN,95000,13,Mandatory overtime clauses,42.8867,-78.8784
+New York,Rochester,Strong Memorial Hospital,Staff RN,90000,12,None,43.1229,-77.6284
+Texas,Houston,Texas Medical Center,Travel RN,100000,13,None,29.7040,-95.4006
+Texas,Houston,Methodist Hospital,Staff RN,92000,12,None,29.7101,-95.4020
+Texas,Dallas,Baylor University Medical Center,Travel RN,98000,13,None,32.7873,-96.7889
+Texas,Austin,Dell Seton Medical Center,Staff RN,88000,12,Non-compete clause,30.2797,-97.7375
+Texas,San Antonio,University Health System,Travel RN,95000,13,None,29.4508,-98.4845
+Florida,Miami,Jackson Memorial Hospital,Travel RN,92000,13,None,25.7946,-80.2142
+Florida,Miami,Baptist Health South Florida,Staff RN,85000,12,None,25.7753,-80.1886
+Florida,Tampa,Tampa General Hospital,Travel RN,88000,13,Late payments,27.9442,-82.4599
+Florida,Orlando,Orlando Health,Staff RN,82000,12,None,28.5479,-81.3713
+Florida,Jacksonville,Mayo Clinic Jacksonville,Travel RN,90000,13,None,30.2921,-81.3956
+Illinois,Chicago,Northwestern Memorial Hospital,Travel RN,105000,13,None,41.8955,-87.6197
+Illinois,Chicago,Rush University Medical Center,Staff RN,98000,12,None,41.8744,-87.6693
+Illinois,Springfield,Memorial Medical Center,Travel RN,85000,13,Unclear cancellation terms,39.7817,-89.6501
+Illinois,Peoria,OSF Saint Francis Medical Center,Staff RN,80000,12,None,40.6942,-89.5892
+Pennsylvania,Philadelphia,Penn Presbyterian Medical Center,Travel RN,102000,13,None,39.9677,-75.2124
+Pennsylvania,Philadelphia,Jefferson Health,Staff RN,95000,12,None,39.9476,-75.1584
+Pennsylvania,Pittsburgh,UPMC Presbyterian,Travel RN,98000,13,None,40.4439,-79.9587
+Pennsylvania,Harrisburg,Penn State Health,Staff RN,88000,12,Mandatory overtime clauses,40.2663,-76.8861
+Arizona,Phoenix,Mayo Clinic Phoenix,Travel RN,100000,13,None,33.4977,-112.0387
+Arizona,Phoenix,Banner Health,Staff RN,92000,12,None,33.4484,-112.0740
+Arizona,Tucson,Banner University Medical Center,Travel RN,90000,13,None,32.2226,-110.9747
+Arizona,Scottsdale,HonorHealth Scottsdale,Staff RN,95000,12,None,33.5029,-111.9260
+Massachusetts,Boston,Massachusetts General Hospital,Travel RN,115000,13,None,42.3631,-71.0686
+Massachusetts,Boston,Brigham and Women's Hospital,Staff RN,110000,12,None,42.3363,-71.1067
+Massachusetts,Worcester,UMass Memorial Medical Center,Travel RN,100000,13,Late payments,42.2751,-71.7618
+Massachusetts,Springfield,Baystate Medical Center,Staff RN,92000,12,None,42.1015,-72.5898
+Washington,Seattle,Swedish Medical Center,Travel RN,108000,13,None,47.6211,-122.3244
+Washington,Seattle,Harborview Medical Center,Staff RN,102000,12,None,47.6051,-122.3241
+Washington,Spokane,Providence Sacred Heart,Travel RN,92000,13,Unclear cancellation terms,47.6588,-117.3975
+Washington,Tacoma,MultiCare Tacoma General,Staff RN,88000,12,None,47.2466,-122.4402
+Colorado,Denver,UCHealth University Hospital,Travel RN,98000,13,None,39.7450,-104.8411
+Colorado,Denver,Denver Health,Staff RN,90000,12,None,39.7310,-104.9903
+Colorado,Colorado Springs,UCHealth Memorial Hospital,Travel RN,92000,13,Non-compete clause,38.8339,-104.8214
+Colorado,Aurora,Children's Hospital Colorado,Staff RN,95000,12,None,39.7437,-104.8312
+Georgia,Atlanta,Emory University Hospital,Travel RN,96000,13,None,33.7948,-84.3245
+Georgia,Atlanta,Grady Memorial Hospital,Staff RN,88000,12,None,33.7550,-84.3854
+Georgia,Savannah,Memorial Health University Medical Center,Travel RN,85000,13,Late payments,32.0739,-81.0965
+Georgia,Augusta,Augusta University Medical Center,Staff RN,82000,12,None,33.4735,-82.0105
+North Carolina,Charlotte,Atrium Health,Travel RN,94000,13,None,35.2138,-80.8379
+North Carolina,Charlotte,Novant Health,Staff RN,87000,12,None,35.2271,-80.8431
+North Carolina,Raleigh,WakeMed Health,Travel RN,90000,13,Mandatory overtime clauses,35.7796,-78.6382
+North Carolina,Durham,Duke University Hospital,Staff RN,92000,12,None,35.9940,-78.9426
+Michigan,Detroit,Henry Ford Hospital,Travel RN,92000,13,None,42.3593,-83.0663
+Michigan,Detroit,Beaumont Hospital,Staff RN,85000,12,None,42.5150,-83.1499
+Michigan,Ann Arbor,Michigan Medicine,Travel RN,95000,13,None,42.2799,-83.7484
+Michigan,Grand Rapids,Spectrum Health,Staff RN,82000,12,Unclear cancellation terms,42.9634,-85.6681
+Tennessee,Nashville,Vanderbilt University Medical Center,Travel RN,90000,13,None,36.1478,-86.8028
+Tennessee,Nashville,TriStar Centennial Medical Center,Staff RN,83000,12,None,36.1427,-86.8074
+Tennessee,Memphis,Regional One Health,Travel RN,85000,13,Late payments,35.1376,-90.0520
+Tennessee,Knoxville,University of Tennessee Medical Center,Staff RN,80000,12,None,35.9606,-83.9207
+Ohio,Cleveland,Cleveland Clinic,Travel RN,100000,13,None,41.5032,-81.6214
+Ohio,Cleveland,University Hospitals,Staff RN,93000,12,None,41.5050,-81.6084
+Ohio,Columbus,Ohio State University Wexner Medical Center,Travel RN,95000,13,None,40.0002,-83.0305
+Ohio,Cincinnati,UC Health,Staff RN,88000,12,Non-compete clause,39.1372,-84.5041
